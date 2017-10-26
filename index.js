@@ -2,7 +2,6 @@
 var animal = 'dog'
 
 function myAnimal(){
-myAnimal ='dog'
   return myAnimal
 }
 
